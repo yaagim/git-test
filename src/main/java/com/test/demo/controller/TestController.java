@@ -8,6 +8,6 @@ public class TestController {
 
     @RequestMapping("test")
     public String testMethod(){
-        return "this is test method!";
+        return "push project suc!";
     }
 }
